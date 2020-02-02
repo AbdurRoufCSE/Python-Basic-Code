@@ -1,0 +1,5 @@
+name=input("Enter your name: ")
+age=int(input("Enter your age:"))
+cgpa=float(input("Enter your CGPA: "))
+phone=int(input("Enter your mobile number: "))
+print(name ,"\n", age ,"\n", cgpa ,"\n",phone)
